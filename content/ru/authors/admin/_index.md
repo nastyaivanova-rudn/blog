@@ -35,18 +35,19 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
 
-interests:
-  - ИИ
-  - Менеджмент
-  - Спортзал
+interests: 
+  - Теоретическая механика
+  - Алгоритмы и структуры данных
+  - Научные исследования
+  - Фотография
 
 education:
   - area: Student
     institution: RUDN
     date_start: 2024-09-01
     date_end: 2028-05-31
-    summary: 
-      
+    summary: Изучаю математику и механику, увлекаюсь алгоритмами, научными исследованиями и математическим моделированием.
+
 work:
   - position: Student
     company_name: RUDN
@@ -54,7 +55,7 @@ work:
     company_logo: ''
     date_start: 2024-09-01
     date_end: ''
-    summary: 
+    summary: Изучаю теоретическую механику и математические методы решения инженерных задач.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -62,36 +63,39 @@ skills:
   - name: Хард скиллы
     items:
       - name: Python
-        description: ''
-        percent: 60
+        description: Опыт программирования для решения математических и физических задач
+        percent: 70
         icon: code-bracket
-      - name: Переговоры
-        description: ''
-        percent: 80
+      - name: MATLAB
+        description: Использую для численных методов и моделирования
+        percent: 60
         icon: chart-bar
-      - name: DataScience
-        description: ''
-        percent: 40
+      - name: Линейная алгебра
+        description: Знания в области линейной алгебры и матричных вычислений
+        percent: 80
         icon: circle-stack
   - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Прогулки
-        description: ''
+      - name: Фотография
+        description: Увлекаюсь пейзажной и портретной фотографией
         percent: 75
-      - name: Спортзал
-        description: ''
-        percent: 100
-      - name: Языки
-        description: ''
-        percent: 80
+      - name: Прогулки на природе
+        description: Наслаждаюсь временем на свежем воздухе
+        percent: 85
+      - name: Чтение научных статей
+        description: Интересуюсь последними исследованиями в области математики и механики
+        percent: 90
 
 languages:
   - name: Русский
     percent: 100
   - name: Английский
-    percent: 60
+    percent: 70
+  - name: Немецкий
+    percent: 50
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
